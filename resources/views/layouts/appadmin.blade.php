@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="../../assets/AdmiLte/bower_components/bootstrap/dist/css/bootstrap.min.css">
   <!-- Font Awesome -->
   <link rel="stylesheet" href="../../assets/AdmiLte/bower_components/font-awesome/css/font-awesome.min.css">
-  <link href="{{ asset('assets/vendor/datatables/datatables.min.css') }}" rel="stylesheet">
+  <link href="{{ asset('assets/vendor/datatables/datagit resettables.min.css') }}" rel="stylesheet">
   <!-- Ionicons -->
   <link rel="stylesheet" href="../../assets/AdmiLte/bower_components/Ionicons/css/ionicons.min.css">
   <!-- Theme style -->
